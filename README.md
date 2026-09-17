@@ -1,6 +1,6 @@
 # T1 - Node.js Plugins
 
-Project ini dibuat untuk memenuhi tugas Node.js Plugins dengan menggunakan `chalk`, `cowsay`, dan `figlet`. Program menampilkan identitas mahasiswa, pesan motivasi berbentuk sapi, serta nama dalam bentuk ASCII art.
+Project ini dibuat untuk memenuhi tugas Node.js Plugins dengan menggunakan `chalk`, `cowsay`, dan `figlet`. Program menampilkan identitas mahasiswa, pesan motivasi, serta nama dalam bentuk ASCII art.
 
 ## Prasyarat
 
